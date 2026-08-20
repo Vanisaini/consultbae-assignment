@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
+
+# SQLite temporary files
+*.db-journal
+*.db-shm
+*.db-wal
+
+# DB Browser project files
+*.sqbpro
+
+# Uploaded audio files
+uploads/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
